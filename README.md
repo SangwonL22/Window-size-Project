@@ -7,6 +7,3 @@
 
 <<<<<<< HEAD
  Change sizing when window resizes
-=======
-## Change sizing when window resizes
->>>>>>> parent of 2920f26 (Update README.md)
