@@ -5,4 +5,8 @@
 
 ![image](https://github.com/SangwonL22/Window-size-Project/assets/139116831/67069521-a696-47a6-8cf6-f7dde8250be3)
 
+<<<<<<< HEAD
  Change sizing when window resizes
+=======
+## Change sizing when window resizes
+>>>>>>> parent of 2920f26 (Update README.md)
